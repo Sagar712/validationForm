@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/validationForm/static/css/main.c010c0e6.chunk.css",
+    "main.js": "/validationForm/static/js/main.3248ad1c.chunk.js",
+    "main.js.map": "/validationForm/static/js/main.3248ad1c.chunk.js.map",
+    "runtime-main.js": "/validationForm/static/js/runtime-main.db6133e1.js",
+    "runtime-main.js.map": "/validationForm/static/js/runtime-main.db6133e1.js.map",
+    "static/js/2.2309ea19.chunk.js": "/validationForm/static/js/2.2309ea19.chunk.js",
+    "static/js/2.2309ea19.chunk.js.map": "/validationForm/static/js/2.2309ea19.chunk.js.map",
+    "index.html": "/validationForm/index.html",
+    "static/css/main.c010c0e6.chunk.css.map": "/validationForm/static/css/main.c010c0e6.chunk.css.map",
+    "static/js/2.2309ea19.chunk.js.LICENSE.txt": "/validationForm/static/js/2.2309ea19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db6133e1.js",
+    "static/js/2.2309ea19.chunk.js",
+    "static/css/main.c010c0e6.chunk.css",
+    "static/js/main.3248ad1c.chunk.js"
+  ]
+}
